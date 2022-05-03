@@ -12,6 +12,10 @@ public class Demo {
 		log.fatal("button is missing");
 		log.debug("i have clicked on button");
 		log.info("button is displayed");
+		log.info("button is displayed");
+		log.info("button is displayed");
+
+
 
 	}
 
